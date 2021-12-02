@@ -1,0 +1,209 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/cassiogamarra/Documentos/desenvolvimento/cursos/PaymentContext/PaymentContext.Tests/PaymentContext.Tests.csproj": {}
+  },
+  "projects": {
+    "/home/cassiogamarra/Documentos/desenvolvimento/cursos/PaymentContext/PaymentContext.Domain/PaymentContext.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/cassiogamarra/Documentos/desenvolvimento/cursos/PaymentContext/PaymentContext.Domain/PaymentContext.Domain.csproj",
+        "projectName": "PaymentContext.Domain",
+        "projectPath": "/home/cassiogamarra/Documentos/desenvolvimento/cursos/PaymentContext/PaymentContext.Domain/PaymentContext.Domain.csproj",
+        "packagesPath": "/home/cassiogamarra/.nuget/packages/",
+        "outputPath": "/home/cassiogamarra/Documentos/desenvolvimento/cursos/PaymentContext/PaymentContext.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/cassiogamarra/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/home/cassiogamarra/Documentos/desenvolvimento/cursos/PaymentContext/PaymentContext.Shared/PaymentContext.Shared.csproj": {
+                "projectPath": "/home/cassiogamarra/Documentos/desenvolvimento/cursos/PaymentContext/PaymentContext.Shared/PaymentContext.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "flunt": {
+              "target": "Package",
+              "version": "[1.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/cassiogamarra/Documentos/desenvolvimento/cursos/PaymentContext/PaymentContext.Shared/PaymentContext.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/cassiogamarra/Documentos/desenvolvimento/cursos/PaymentContext/PaymentContext.Shared/PaymentContext.Shared.csproj",
+        "projectName": "PaymentContext.Shared",
+        "projectPath": "/home/cassiogamarra/Documentos/desenvolvimento/cursos/PaymentContext/PaymentContext.Shared/PaymentContext.Shared.csproj",
+        "packagesPath": "/home/cassiogamarra/.nuget/packages/",
+        "outputPath": "/home/cassiogamarra/Documentos/desenvolvimento/cursos/PaymentContext/PaymentContext.Shared/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/cassiogamarra/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "flunt": {
+              "target": "Package",
+              "version": "[1.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/cassiogamarra/Documentos/desenvolvimento/cursos/PaymentContext/PaymentContext.Tests/PaymentContext.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/cassiogamarra/Documentos/desenvolvimento/cursos/PaymentContext/PaymentContext.Tests/PaymentContext.Tests.csproj",
+        "projectName": "PaymentContext.Tests",
+        "projectPath": "/home/cassiogamarra/Documentos/desenvolvimento/cursos/PaymentContext/PaymentContext.Tests/PaymentContext.Tests.csproj",
+        "packagesPath": "/home/cassiogamarra/.nuget/packages/",
+        "outputPath": "/home/cassiogamarra/Documentos/desenvolvimento/cursos/PaymentContext/PaymentContext.Tests/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/cassiogamarra/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/home/cassiogamarra/Documentos/desenvolvimento/cursos/PaymentContext/PaymentContext.Domain/PaymentContext.Domain.csproj": {
+                "projectPath": "/home/cassiogamarra/Documentos/desenvolvimento/cursos/PaymentContext/PaymentContext.Domain/PaymentContext.Domain.csproj"
+              },
+              "/home/cassiogamarra/Documentos/desenvolvimento/cursos/PaymentContext/PaymentContext.Shared/PaymentContext.Shared.csproj": {
+                "projectPath": "/home/cassiogamarra/Documentos/desenvolvimento/cursos/PaymentContext/PaymentContext.Shared/PaymentContext.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.9.4, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.0.2, )"
+            },
+            "flunt": {
+              "target": "Package",
+              "version": "[1.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

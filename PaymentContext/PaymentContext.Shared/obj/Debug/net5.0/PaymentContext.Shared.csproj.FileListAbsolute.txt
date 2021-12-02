@@ -1,0 +1,12 @@
+/home/cassiogamarra/Documentos/desenvolvimento/cursos/PaymentContext/PaymentContext.Shared/bin/Debug/net5.0/PaymentContext.Shared.deps.json
+/home/cassiogamarra/Documentos/desenvolvimento/cursos/PaymentContext/PaymentContext.Shared/bin/Debug/net5.0/PaymentContext.Shared.dll
+/home/cassiogamarra/Documentos/desenvolvimento/cursos/PaymentContext/PaymentContext.Shared/bin/Debug/net5.0/ref/PaymentContext.Shared.dll
+/home/cassiogamarra/Documentos/desenvolvimento/cursos/PaymentContext/PaymentContext.Shared/bin/Debug/net5.0/PaymentContext.Shared.pdb
+/home/cassiogamarra/Documentos/desenvolvimento/cursos/PaymentContext/PaymentContext.Shared/obj/Debug/net5.0/PaymentContext.Shared.csproj.AssemblyReference.cache
+/home/cassiogamarra/Documentos/desenvolvimento/cursos/PaymentContext/PaymentContext.Shared/obj/Debug/net5.0/PaymentContext.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/home/cassiogamarra/Documentos/desenvolvimento/cursos/PaymentContext/PaymentContext.Shared/obj/Debug/net5.0/PaymentContext.Shared.AssemblyInfoInputs.cache
+/home/cassiogamarra/Documentos/desenvolvimento/cursos/PaymentContext/PaymentContext.Shared/obj/Debug/net5.0/PaymentContext.Shared.AssemblyInfo.cs
+/home/cassiogamarra/Documentos/desenvolvimento/cursos/PaymentContext/PaymentContext.Shared/obj/Debug/net5.0/PaymentContext.Shared.csproj.CoreCompileInputs.cache
+/home/cassiogamarra/Documentos/desenvolvimento/cursos/PaymentContext/PaymentContext.Shared/obj/Debug/net5.0/PaymentContext.Shared.dll
+/home/cassiogamarra/Documentos/desenvolvimento/cursos/PaymentContext/PaymentContext.Shared/obj/Debug/net5.0/ref/PaymentContext.Shared.dll
+/home/cassiogamarra/Documentos/desenvolvimento/cursos/PaymentContext/PaymentContext.Shared/obj/Debug/net5.0/PaymentContext.Shared.pdb

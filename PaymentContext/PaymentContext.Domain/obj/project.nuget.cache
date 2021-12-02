@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fQ0U4/+zcvQygcIJvLnlbVjNHotIi6uKxZajqIXd3a8NsAUDFDcE1VXRriAEaN24aqIPWwIEsAmoYpg2cTq/2Q==",
+  "success": true,
+  "projectFilePath": "/home/cassiogamarra/Documentos/desenvolvimento/cursos/PaymentContext/PaymentContext.Domain/PaymentContext.Domain.csproj",
+  "expectedPackageFiles": [
+    "/home/cassiogamarra/.nuget/packages/flunt/1.0.5/flunt.1.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
